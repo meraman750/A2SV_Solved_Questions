@@ -1,0 +1,4 @@
+class Solution:    
+    def findUnion(self, a, b):
+        a.extend(b)
+        return set(a)
