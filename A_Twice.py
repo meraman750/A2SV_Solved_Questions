@@ -10,4 +10,4 @@ for _ in range(int(input())):
     for i in n:
         count+= i//2
     print(count)
-    
+
