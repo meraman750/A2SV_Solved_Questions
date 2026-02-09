@@ -9,6 +9,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -20,6 +21,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
