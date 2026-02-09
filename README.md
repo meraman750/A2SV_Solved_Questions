@@ -9,6 +9,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -19,6 +20,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -29,6 +31,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -42,6 +45,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Design
