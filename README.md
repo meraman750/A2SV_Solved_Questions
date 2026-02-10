@@ -30,6 +30,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0012-integer-to-roman](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -43,6 +44,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0012-integer-to-roman](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -60,6 +62,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Design
