@@ -71,6 +71,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0012-integer-to-roman](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Randomized
 |  |
 | ------- |
@@ -79,4 +80,5 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 <!---LeetCode Topics End-->
