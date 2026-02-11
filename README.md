@@ -24,6 +24,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2671-frequency-tracker](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## String
 |  |
@@ -74,6 +76,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Design
 |  |
 | ------- |
@@ -130,4 +133,8 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
