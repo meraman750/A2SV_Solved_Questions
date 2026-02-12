@@ -23,6 +23,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -135,6 +136,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -170,6 +172,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
