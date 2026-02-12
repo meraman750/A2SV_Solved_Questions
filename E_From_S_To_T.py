@@ -19,7 +19,6 @@ for _ in range(n):
         print("NO")
         continue
 
-    ok = True
     for i in count_t:
         need = count_t[i] - count_s[i]
         if need > count_p[i]:

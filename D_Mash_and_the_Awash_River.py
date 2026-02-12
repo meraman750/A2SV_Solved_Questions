@@ -7,3 +7,5 @@ for _ in range(n):
         continue
     
     print(len(s) - min(s.count(">"), s.count("<")))
+
+    
