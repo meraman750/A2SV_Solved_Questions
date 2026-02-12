@@ -69,6 +69,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -114,6 +115,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0013-roman-to-integer](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Randomized
@@ -161,6 +163,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Greedy
 |  |
 | ------- |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Recursion
 |  |
