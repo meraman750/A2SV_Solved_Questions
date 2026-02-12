@@ -28,6 +28,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3527-find-the-most-common-response](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [2215-find-the-difference-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Counting
 |  |
 | ------- |
@@ -75,6 +78,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3527-find-the-most-common-response](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Sorting
 |  |
 | ------- |
