@@ -10,6 +10,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -125,6 +126,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0012-integer-to-roman](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -173,6 +175,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
