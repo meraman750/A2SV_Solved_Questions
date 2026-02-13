@@ -24,6 +24,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0661-image-smoother](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -181,6 +182,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
