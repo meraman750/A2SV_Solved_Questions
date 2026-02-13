@@ -27,6 +27,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0661-image-smoother](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -126,6 +127,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0136-single-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -174,6 +177,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +190,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
