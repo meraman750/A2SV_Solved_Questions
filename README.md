@@ -34,6 +34,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -194,6 +195,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Greedy
 |  |
 | ------- |
