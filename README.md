@@ -19,6 +19,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -128,6 +129,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0217-contains-duplicate](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -249,6 +251,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Game Theory
 |  |
