@@ -10,14 +10,19 @@ for _ in range(n):
     adis = sorted(arr)
     x = k//2
 
-    for i in range(1, k):
-        if (i+x) < k:
-            if arr[i] > arr[i+x]:
-                arr[i+x], arr[i] = arr[i], arr[i+x]
+    flag = False
+    for __ in range(k):
+        for i in range(k):
+            if 2*(i+1) <= k:
+                if arr[i] > arr[(2*(i+1))-1]:
+                    arr[i], arr[(2*(i+1))-1] = arr[(2*(i+1))-1], arr[i]
+            if arr == adis:
+                flag = True
+                break
+        if flag:
+            break
+        
     if adis == arr:
         print("YES")
     else:
         print("NO")
-
-
-    

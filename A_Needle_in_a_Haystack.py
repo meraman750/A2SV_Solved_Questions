@@ -1,3 +1,5 @@
+from collections import Counter
+
 def list_(): return list(map(int, input().split()))
 def str_(): return list(map(str, input().split()))
 
@@ -7,35 +9,36 @@ for _ in range(n):
     x = input()
     s = input()
 
-    ans = ""
-    flag = True
-    for i in range(len(x)):
-        idx = s.find(x[i], 0)
-        if idx == -1:
-            flag = False
+    countx = Counter(x)
+    counts = Counter(s)
+    flag = False
+    for key, val in countx.items():
+        if counts[key] < val:
+            flag = True
             break
-        else:
-            s = s[:idx] + s[idx+1:]
-    if not flag:
+        counts[key] -= val
+        if counts[key] == 0:
+            del counts[key]
+
+    if flag:
         print("Impossible")
         continue
-    new_s = sorted(s)
-    new_s = "".join(new_s)
     
-    l, r = 0,0
-    ans = ""
-    while l < len(x) and r < len(new_s):
-        if x[l] < new_s[r]:
-            ans += x[l]
-            l+=1
+    new_s = sorted(counts.keys())
+    ans = []
+    
+    j = 0
+    i = 0
+    while i < len(new_s) and j < len(x):
+        if new_s[i] < x[j]:
+            ans.append(new_s[i] * counts[new_s[i]])
+            i+=1
         else:
-            ans += new_s[r]
-            r+=1
-    while l < len(x):
-        ans += x[l]
-        l+=1
-    while r < len(new_s):
-        ans += new_s[r]
-        r+=1
-
-    print(ans)
+            ans.append(x[j])
+            j+=1
+    while i < len(new_s):
+        ans.append(new_s[i] * counts[new_s[i]])
+        i+=1
+        
+    ans.extend(x[j:])
+    print("".join(ans))
