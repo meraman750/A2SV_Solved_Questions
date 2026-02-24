@@ -33,6 +33,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -140,6 +141,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0451-sort-characters-by-frequency](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -214,6 +216,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0283-move-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Union-Find
@@ -238,6 +241,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
