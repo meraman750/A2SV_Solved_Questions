@@ -10,6 +10,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
@@ -211,6 +212,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
@@ -239,6 +241,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
