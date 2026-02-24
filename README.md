@@ -91,6 +91,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0012-integer-to-roman](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -205,6 +206,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -259,4 +261,8 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
