@@ -76,6 +76,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0451-sort-characters-by-frequency](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0763-partition-labels](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -104,6 +105,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0451-sort-characters-by-frequency](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0763-partition-labels](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -217,6 +219,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0763-partition-labels](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -244,6 +247,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0011-container-with-most-water](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
