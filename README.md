@@ -22,6 +22,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0229-majority-element-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -163,6 +164,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [2671-frequency-tracker](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Bit Manipulation
@@ -240,6 +242,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -296,4 +299,8 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
