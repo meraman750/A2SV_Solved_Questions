@@ -15,15 +15,24 @@ for _ in range(t):
         minn = min(inner)
         idx = inner.index(minn)
         arr = inner[idx:]
-        idx-=1
-        while idx >= 0:
-            arr.append(inner[idx])
-            idx-=1
+        i = 0
+        while i < idx:
+            arr.append(inner[i])
+            i+=1
 
-    if outer:
-        for i in range(len(outer)):
-            if outer[i] > arr[0]:
-                print(*(outer[:i] + arr + outer[i:]))
-                break
+    for i in range(len(outer)):
+        # if outer(i) < 
+        if outer[i] >= arr[0]:
+            print(*(outer[:i] + arr + outer[i:]))
+            break
+    
     else:
-        print(*arr)
+        print(*(outer + arr))
+
+#[[0, 0, 0, 0, 0, 0,     0], 
+# [0, 3, 3, 4, 8, 10,    0], 
+# [0, 8, 14, 18, 24, 27, 0], 
+# [0, 9, 17, 21, 28, 36, 0], 
+# [0, 13, 22, 26, 34, 49,0], 
+# [0, 14, 23, 30, 38, 58,0], 
+# [0, 0, 0, 0, 0, 0,     0]]
