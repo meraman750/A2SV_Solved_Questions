@@ -52,6 +52,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2381-shifting-letters-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -119,6 +120,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2381-shifting-letters-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -303,4 +305,5 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [2381-shifting-letters-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 <!---LeetCode Topics End-->
