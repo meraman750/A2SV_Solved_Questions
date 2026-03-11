@@ -108,6 +108,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0242-valid-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -268,6 +269,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -306,4 +308,8 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [2381-shifting-letters-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
