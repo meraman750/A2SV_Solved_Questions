@@ -14,6 +14,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0136-single-number) |
@@ -257,6 +258,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -302,6 +304,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
