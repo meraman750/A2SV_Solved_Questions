@@ -315,4 +315,16 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0394-decode-string) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
