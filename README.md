@@ -38,6 +38,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0867-transpose-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0885-spiral-matrix-iii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0969-pancake-sorting](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -85,6 +86,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0763-partition-labels](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0992-subarrays-with-k-different-integers](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -210,6 +212,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -320,6 +323,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -328,6 +332,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
