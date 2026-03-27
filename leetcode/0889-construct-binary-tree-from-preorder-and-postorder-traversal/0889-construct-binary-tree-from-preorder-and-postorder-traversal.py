@@ -6,28 +6,28 @@
 #         self.right = right
 class Solution:
     def constructFromPrePost(self, preorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        pre = 0
-        post = 0
+        ppos = 0
+        ppre = 0
+        def calc(pre, post):
+            nonlocal ppos
+            nonlocal ppre
+            
+            if ppre >= len(pre):
+                return
 
-        def calc(preorder, postorder):
-            nonlocal pre
-            nonlocal post
-
-            temp = preorder[pre]
-            pre +=1
+            cur = pre[ppre]
+            ppre +=1
             
             left = None
             right = None
 
-            if temp != postorder[post]:
-                left = calc(preorder, postorder)
+            if cur != post[ppos]:
+                left = calc(pre, post)
 
-            if temp != postorder[post]:
-                right = calc(preorder, postorder)
+            if cur != post[ppos]:
+                right = calc(pre, post)
 
-            post +=1
-
-            return TreeNode(temp, left, right)
+            ppos +=1
+            return TreeNode(cur, left, right)
 
         return calc(preorder, postorder)
-            
