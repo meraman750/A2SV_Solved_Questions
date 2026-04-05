@@ -13,6 +13,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0011-container-with-most-water](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -336,6 +337,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Enumeration
 |  |
