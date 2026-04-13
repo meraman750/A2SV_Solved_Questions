@@ -126,6 +126,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1528-shuffle-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -273,6 +274,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Recursion
 |  |
 | ------- |
@@ -320,6 +322,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0394-decode-string) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
@@ -339,6 +342,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0051-n-queens](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0051-n-queens) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Enumeration
 |  |
 | ------- |
