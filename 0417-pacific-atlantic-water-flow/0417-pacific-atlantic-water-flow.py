@@ -12,8 +12,8 @@ class Solution:
                 return set()
             if not inbound(i, j):
                 if j < 0 or i < 0:
-                    return {1}
-                return {2}
+                    return set([1])
+                return set([2])
             visited.add((i, j))
             
 
