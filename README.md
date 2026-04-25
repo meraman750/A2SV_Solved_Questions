@@ -365,4 +365,8 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
