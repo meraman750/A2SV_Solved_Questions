@@ -330,11 +330,13 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
@@ -344,6 +346,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
@@ -360,6 +363,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
