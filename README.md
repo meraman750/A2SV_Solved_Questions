@@ -55,6 +55,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2381-shifting-letters-ii](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -198,6 +199,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2101-detonate-the-maximum-bombs](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Randomized
 |  |
@@ -365,12 +367,22 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [2101-detonate-the-maximum-bombs](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [2101-detonate-the-maximum-bombs](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
