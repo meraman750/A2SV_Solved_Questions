@@ -18,6 +18,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0054-spiral-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -74,6 +75,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
@@ -221,6 +223,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -341,6 +344,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Search Tree
@@ -351,6 +355,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Backtracking
