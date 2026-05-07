@@ -1,6 +1,6 @@
 # 681C-Heap-Operations
 
-**Problem:** [681C-Heap-Operations](https://codeforces.com/contest/681/problem/C)
+**Problem:** [681C-Heap-Operations](https://codeforces.com/problemset/problem/681/C)
 
 **time limit per test:** 1 second
 
