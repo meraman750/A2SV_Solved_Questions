@@ -48,6 +48,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0976-largest-perimeter-triangle](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1046-last-stone-weight](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -233,6 +234,7 @@ During my A2SV education, I've solved many coding and software tasks. This has h
 | [0215-kth-largest-element-in-an-array](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/meraman750/A2SV_Solved_Questions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
